@@ -1,2 +1,2 @@
-# Portfolio
-My Portfolio Website created using HTML, CSS and JavaScript.
+# Portfolio-Website
+My first portfolio website
